@@ -811,7 +811,7 @@ form .alert {
     border-bottom: none;
   }
   .navbar-main .navbar-brand {
-    padding: 3px 10px;
+    padding: 3px 3px;
   }
   .navbar-main .submenu {
     position: initial;
