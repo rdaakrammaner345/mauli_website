@@ -311,6 +311,9 @@ a:hover, a:focus, a:active {
   border-color: #144d7b;
 }
 
+.notification {
+  color: #000000;
+}
 /* Team 
 ================================= */
 .team-member {
