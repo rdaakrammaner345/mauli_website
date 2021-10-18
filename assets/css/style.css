@@ -227,7 +227,7 @@ a:hover, a:focus, a:active {
   position: absolute;
   bottom: 0;
   text-align: center;
-  background: rgba(31, 118, 189, 0.8);
+  background: #EA840E;
   width: 100%;
   color: #fff;
   text-transform: uppercase;
@@ -311,6 +311,10 @@ a:hover, a:focus, a:active {
   border-color: #144d7b;
 }
 
+.notification {
+  color: #000000;
+  border: 2px solid black;
+}
 /* Team 
 ================================= */
 .team-member {
