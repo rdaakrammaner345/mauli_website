@@ -426,7 +426,10 @@ a:hover, a:focus, a:active {
 .footer-form textarea::-webkit-input-placeholder {
   color: #fff;
 }
-
+.visitors {
+text-align: center;
+text-transform: uppercase;
+}
 /* Pages 
 ================================= */
 .page-heading {
