@@ -11,7 +11,7 @@
 ========================================================================== */
 body {
   font-family: "Open sans", sans-serif;
-  color: #115c9b;
+  color: #000000;
 }
 
 h1,
@@ -243,9 +243,10 @@ a:hover, a:focus, a:active {
   bottom: 125px;
   width: 100%;
   padding: 25px;
+  font-size: 25px;
   color: #fff;
   text-align: justify;
-  background: rgba(31, 118, 189, 0.9);
+  background: #573391;
   border-bottom: 1px solid #fff;
   visibility: hidden;
   opacity: 0;
@@ -286,7 +287,7 @@ a:hover, a:focus, a:active {
   border-radius: 3px;
 }
 .cause .cause-progress .progress-bar {
-  background: #1f76bd;
+  background: #FF1818;
   box-shadow: none;
 }
 .cause .cause-img {
@@ -540,6 +541,8 @@ form .alert {
   text-transform: uppercase;
   font-size: 26px;
   margin-bottom: 50px;
+  color: #FF1818;
+  font-weight: bold;
 }
 
 .title-style-2 {
@@ -547,6 +550,8 @@ form .alert {
   text-transform: uppercase;
   font-size: 26px;
   margin-bottom: 25px;
+  color: #FF1818;
+  font-weight: bold;
 }
 .title-style-2 .title-under {
   display: block;
@@ -560,7 +565,7 @@ form .alert {
 .title-under {
   display: block;
   margin: 5px auto;
-  background: #1f76bd;
+  background: #FF1818;
   height: 1px;
   width: 280px;
 }
@@ -612,6 +617,7 @@ form .alert {
 .nav-tabs {
   border-bottom-color: #1f76bd;
   margin-bottom: 15px;
+  font-weight: bold;
 }
 
 .nav-tabs > li.active > a,
@@ -1072,3 +1078,27 @@ form .alert {
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
 }
+
+/* animation/
+================================= */
+
+/* donate
+================================= */
+.txtclr {
+  color: #1B1A17;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+
+/* donate/ 
+================================= */
