@@ -176,6 +176,7 @@ a:hover, a:focus, a:active {
 .about-us-col {
   height: 350px;
   padding: 15px;
+  margin-bottom: 10px;
   text-align: center;
   background-size: 100%;
   color: #fff;
@@ -204,6 +205,14 @@ a:hover, a:focus, a:active {
   text-align: justify;
   margin-bottom: 25px;
   min-height: 80px;
+}
+.abtus {
+  font-size: 20px;
+  text-align: justify;
+
+}
+.para {
+  font-size: 15px;
 }
 
 /* home/reasons 
@@ -323,6 +332,7 @@ a:hover, a:focus, a:active {
   color: #fff;
   text-align: center;
   padding-bottom: 15px;
+  margin: 15px 0px 15px 0px;
   border: 1px solid #1f76bd;
 }
 .team-member .thumnail img {
@@ -333,6 +343,9 @@ a:hover, a:focus, a:active {
 }
 .team-member .member-position {
   padding: 0 15px 5px;
+}
+.member-img {
+  height: 110%;
 }
 
 /* footer 
